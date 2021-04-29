@@ -4,7 +4,6 @@
  
 ***
 
-<a href="https://twitter.com/MansariAchraf" target="_blank">Twitter</a> |
 <a href="https://www.linkedin.com/in/itsachrafmansari/" target="_blank">LinkedIn</a> |
 <a href="https://www.behance.net/itsachrafmansari" target="_blank">Behance</a> |
 <a href="https://www.youtube.com/c/itsachrafmansari?sub_confirmation=1" target="_blank">YouTube</a>
