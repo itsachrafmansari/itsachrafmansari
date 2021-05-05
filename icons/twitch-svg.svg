@@ -1,0 +1,8 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1792 1792" width="1024" height="1024">
+	<title>twitch-svg</title>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #9146ff } 
+	</style>
+	<path id="Layer" fill-rule="evenodd" class="shp0" d="M1692 0L1692 1013L1258 1447L932 1447L715 1664L498 1664L498 1447L100 1447L100 289L209 0L1692 0ZM1294 1194L1547 940L1547 145L353 145L353 1194L679 1194L679 1411L896 1194L1294 1194ZM896 434L896 868L751 868L751 434L896 434ZM1294 434L1294 868L1149 868L1149 434L1294 434Z" />
+</svg>
