@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" style='background-color: #00FF00'>
  
 ## About me
 <p>Been near computers since childhood, still learning about them and willing to become a software engineer in the near future (Inshallah) after graduating with a bachelor's degree in Mathematics and Computer Science from the local faculty in my hometown Khouribga, where I’m currently living and spending most of my time either studying, doing some 3D modeling and interior design or learning about AI and Machine Learning.</p>
