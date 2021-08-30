@@ -9,8 +9,11 @@ and interior design or learning about AI and Machine Learning.</p>
 ---
 
 ### My GitHub Activity
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=itsachrafmansari&custom_title=GitHub Stats&hide_border=true&bg_color=00000000&title_color=00ba34&text_color=808080" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsachrafmansari&langs_count=5&hide_border=true&bg_color=00000000&title_color=00ba34&text_color=808080" />
+<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=itsachrafmansari&theme=chartreuse-dark&hide_border=true&background=00000000&currStreakNum=808080&ring=05CB00&fire=05CB00&sideNums=05CB00&currStreakLabel=05CB00&sideLabels=05CB00&dates=808080" />
+
+<br/>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsachrafmansari&langs_count=5&hide_border=true&hide_title=false&layout=compact&bg_color=00000000&title_color=05CB00&text_color=808080" />
 
 ---
 
