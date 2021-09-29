@@ -20,7 +20,7 @@ and interior design or learning about AI and Machine Learning.</p>
 ### Contact Me
 `Email : contact@achrafmansari.com`
 
-[<img align="center" alt="Website" width="25px" height="25px" src="https://raw.githubusercontent.com/itsachrafmansari/itsachrafmansari/main/icons/blogger.svg" />][website]  |
+[<img align="center" alt="Website" width="25px" height="25px" src="https://raw.githubusercontent.com/itsachrafmansari/itsachrafmansari/main/icons/logo.svg" />][website]  |
 [<img align="center" alt="YouTube" width="25px" height="25px" src="https://raw.githubusercontent.com/itsachrafmansari/itsachrafmansari/main/icons/facebook.svg" />][facebook] |
 [<img align="center" alt="Instagram" width="25px" height="25px" src="https://raw.githubusercontent.com/itsachrafmansari/itsachrafmansari/main/icons/instagragm.svg" />][instagram]  |
 [<img align="center" alt="Linkedin" width="25px" height="25px" src="https://raw.githubusercontent.com/itsachrafmansari/itsachrafmansari/main/icons/linkedin.svg" />][linkedin]  |
