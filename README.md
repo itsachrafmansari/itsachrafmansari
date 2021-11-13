@@ -22,16 +22,20 @@ and interior design or learning about AI and Machine Learning.</p>
 
 [<img align="center" alt="Website" width="25px" height="25px" src="https://raw.githubusercontent.com/itsachrafmansari/itsachrafmansari/main/icons/logo.svg" />][website]  |
 [<img align="center" alt="YouTube" width="25px" height="25px" src="https://raw.githubusercontent.com/itsachrafmansari/itsachrafmansari/main/icons/facebook.svg" />][facebook] |
-[<img align="center" alt="Instagram" width="25px" height="25px" src="https://raw.githubusercontent.com/itsachrafmansari/itsachrafmansari/main/icons/instagragm.svg" />][instagram]  |
+[<img align="center" alt="Instagram" width="25px" height="25px" src="https://raw.githubusercontent.com/itsachrafmansari/itsachrafmansari/main/icons/instagragm.svg"/>][instagram]  |
+[<img align="center" alt="Instagram" width="25px" height="25px" src="https://raw.githubusercontent.com/itsachrafmansari/itsachrafmansari/main/icons/twitter.svg" />][twitter]  |
 [<img align="center" alt="Linkedin" width="25px" height="25px" src="https://raw.githubusercontent.com/itsachrafmansari/itsachrafmansari/main/icons/linkedin.svg" />][linkedin]  |
 [<img align="center" alt="Behance" width="25px" height="25px" src="https://raw.githubusercontent.com/itsachrafmansari/itsachrafmansari/main/icons/behance.svg" />][behance]  |
-[<img align="center" alt="YouTube" width="25px" height="25px" src="https://raw.githubusercontent.com/itsachrafmansari/itsachrafmansari/main/icons/youtube.svg" />][youtube]
+[<img align="center" alt="YouTube" width="25px" height="25px" src="https://raw.githubusercontent.com/itsachrafmansari/itsachrafmansari/main/icons/youtube.svg" />][youtube]  |
+[<img align="center" alt="YouTube" width="25px" height="25px" src="https://raw.githubusercontent.com/itsachrafmansari/itsachrafmansari/main/icons/whatsapp.svg" />][whatsapp]
   
 [website]: https://www.achrafmansari.com
 [facebook]: https://www.facebook.com/itsachrafmansari
 [instagram]: https://www.instagram.com/itsachrafmansari
+[twitter]: https://twitter.com/MansariAchraf
 [linkedin]: https://www.linkedin.com/in/itsachrafmansari
 [behance]: https://www.behance.net/itsachrafmansari
 [youtube]: https://www.youtube.com/c/itsachrafmansari?sub_confirmation=1
+[whatsapp]: https://wa.me/message/Q7BKINQ7EMBPE1
 
 </div>
