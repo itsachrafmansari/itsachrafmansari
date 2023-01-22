@@ -1,7 +1,7 @@
 <div align="center">
 
 ### About me
-<p>Been near computers since childhood, still learning about them and willing to pursue a career in AI in the near future (Inshallah) after graduating with a bachelor's degree in Mathematics and Computer Science from my hometown's local faculty.</p>
+<p>I am a college student pursuing a Bachelor’s degree in Mathematics and Computer Science, and I have a passion for software development and 3D modeling. I use Python as the main coding language and have worked on various projects related to robotics (with Flask/OpenCV as frameworks and Raspberry Pi/Arduino as microcontrollers), web development (with Django as a backend framework and Bootstrap/TailwindCSS as frontend frameworks) and web scraping (with Selenium). Additionally, I have experience in 3D modeling, both as a freelancer and as a hobbyist, with a focus on architectural and interior design.</p>
 
 ---
 
