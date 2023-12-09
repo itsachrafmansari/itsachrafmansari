@@ -1,7 +1,17 @@
 <div align="center">
 
 ### About me
-<p>I am a college student pursuing a Bachelor’s degree in Mathematics and Computer Science, and I have a passion for software development and 3D modeling. I use Python as the main coding language and have worked on various projects related to robotics (with Flask/OpenCV as frameworks and Raspberry Pi/Arduino as microcontrollers), web development (with Django as a backend framework and Bootstrap/TailwindCSS as frontend frameworks) and web scraping (with Selenium). Additionally, I have experience in 3D modeling, both as a freelancer and as a hobbyist, with a focus on architectural and interior design.</p>
+
+<p>Assalamu alaikum 👋</p>
+
+<p>I am a driven and ambitious individual currently pursuing a Bachelor's degree in computer science (Graduating in July 2024), based in Khouribga, Morocco.</p>
+
+<p>I do full stack web development and 3d modeling, but my interests and capabilities go beyond just these two fields. I have also been actively involved in various projects and activities encompassing robotics, competitive programming, and machine learning, which have not only enhanced my technical abilities, but also taught me the importance of teamwork, leadership, problem-solving, and adaptability.</p>
+
+<p>I'm a quick learner that thrives in fast-paced environments and I’m constantly seeking opportunities to push myself out of my comfort zone and expand my skill set. And with my strong technical skills, and passion for innovation, I am confident in my ability to make a valuable contribution to any team or organization.</p>
+
+<p>If you're looking for a dedicated and friendly team player who can contribute to your team's success, let's connect! I'm excited to explore potential opportunities and see how we can make great things happen together.</p>
+
 
 ---
 
