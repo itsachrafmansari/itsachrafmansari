@@ -1,6 +1,6 @@
 <div align="center">
 
-### About me
+# About me
 
 <p>Assalamu alaikum 👋</p>
 
@@ -12,15 +12,14 @@
 
 <p>If you're looking for a dedicated and friendly team player who can contribute to your team's success, let's connect! I'm excited to explore potential opportunities and see how we can make great things happen together.</p>
 
+<br/>
 
----
-
-### My GitHub Activity
+# My GitHub Activity
 <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=itsachrafmansari&theme=chartreuse-dark&hide_border=true&background=00000000&currStreakNum=808080&ring=05CB00&fire=05CB00&sideNums=05CB00&currStreakLabel=05CB00&sideLabels=05CB00&dates=808080" />
 
----
+<br/>
 
-### Contact Me
+# Contact Me
 `Email : contact@achrafmansari.com`
 
 [<img align="center" alt="Website" width="25px" height="25px" src="https://raw.githubusercontent.com/itsachrafmansari/itsachrafmansari/main/icons/logo.svg" />][website]  |
