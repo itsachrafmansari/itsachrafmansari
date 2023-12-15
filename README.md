@@ -15,9 +15,14 @@
 <br/>
 
 # My GitHub Activity
+### Commits
 <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=itsachrafmansari&theme=chartreuse-dark&hide_border=true&background=00000000&currStreakNum=808080&ring=05CB00&fire=05CB00&sideNums=05CB00&currStreakLabel=05CB00&sideLabels=05CB00&dates=808080" />
 
-<br/>
+### Most Used Languages
+
+[![Top Langs stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=itsachrafmansari&layout=compact&langs_count=20&hide_title=true&theme=transparent&hide_border=true&text_color=ffffff#gh-dark-mode-only)](https://github.com/itsachrafmansari#gh-dark-mode-only)
+[![Top Langs stats-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=itsachrafmansari&layout=compact&langs_count=20&hide_title=true&theme=transparent&hide_border=true&text_color=111111#gh-light-mode-only)](https://github.com/itsachrafmansari#gh-light-mode-only)
+
 
 # Contact Me
 `Email : contact@achrafmansari.com`
